@@ -1,0 +1,5 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+numpy==1.21.6
+onnxruntime==1.15.1
+Pillow==8.4.0
